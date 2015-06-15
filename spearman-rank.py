@@ -1,5 +1,4 @@
 # spearman-rank.py
-from decimal import *
 
 # set critical values
 CRIT_VALUES = { 5:  1.000,
